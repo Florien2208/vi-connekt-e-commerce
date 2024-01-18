@@ -42,10 +42,10 @@ const Footer = () => {
                 PinCode:34543665456
               </address>
               <a href="tel:+250 7576545678" className='mt-4 d-block mb-2 text-white'>
-                +250 7576545678
+                +250 787537524
               </a>
               <a href="viconnektshop@gmail.com" className='mt-2 d-block mb-0  text-white'>
-              viconnektshop@gmail.com
+              florien2208@gmail.com
               </a>
               <div className="social-icons d-flex align-items-center gap-30 mt-4">
                 <a href="/" className='text-white'>
@@ -95,7 +95,7 @@ const Footer = () => {
         <div className="container-xxl">
           <div className="row">
             <div className="col-12">
-              <p className="text-center mb-0 text-white">&copy; {new Date().getFullYear()}; Powered by Klab</p>
+              <p className="text-center mb-0 text-white">&copy; {new Date().getFullYear()}; Powered by Florien</p>
             </div>
           </div>
         </div>
