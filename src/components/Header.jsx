@@ -68,7 +68,7 @@ const Header = ({ selectedCategory, setSelectedCategory }) => {
               <p className="text-end text-white mb-0">
                 Hotline:
                 <a href="tel:+250 7576545678" className="text-white">
-                  +250 787537524
+                  +250 7870000000
                 </a>
               </p>
             </div>
