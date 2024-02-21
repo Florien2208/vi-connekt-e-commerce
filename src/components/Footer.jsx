@@ -42,10 +42,10 @@ const Footer = () => {
                 PinCode:34543665456
               </address>
               <a href="tel:+250 7576545678" className='mt-4 d-block mb-2 text-white'>
-                +250 787537524
+                +250 7870000000
               </a>
               <a href="viconnektshop@gmail.com" className='mt-2 d-block mb-0  text-white'>
-              florien2208@gmail.com
+              djflo2208@gmail.com
               </a>
               <div className="social-icons d-flex align-items-center gap-30 mt-4">
                 <a href="/" className='text-white'>
@@ -73,7 +73,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="col-3">
-            <h4 className='text-white mb-2'>Acounts</h4>
+            <h4 className='text-white mb-2'>Accounts</h4>
             <div className='footer-links d-flex flex-column'>
               <Link className='text-white py-1 mb-1'>ABout Us</Link>
               <Link className='text-white py-1 mb-1'>Faq</Link>
@@ -95,7 +95,7 @@ const Footer = () => {
         <div className="container-xxl">
           <div className="row">
             <div className="col-12">
-              <p className="text-center mb-0 text-white">&copy; {new Date().getFullYear()}; Powered by Florien</p>
+              <p className="text-center mb-0 text-white">&copy; {new Date().getFullYear()}; Powered by dj flo</p>
             </div>
           </div>
         </div>
